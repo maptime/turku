@@ -3,4 +3,4 @@ layout: post
 title: MaptimeTurku chapter opened!
 ---
 
-Testing
+Maptime arrives in Turku. Jei!
