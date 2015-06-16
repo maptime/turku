@@ -2,7 +2,7 @@ baseurl: /turku
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: turku
 github_org: maptime
 maptime:
   chapter: MaptimeTurku
